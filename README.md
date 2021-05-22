@@ -12,7 +12,6 @@ I'm currently focused on building secure simple utilities to assist in everyday 
 
 --- 
 
-## Talks, mentorship
+## Talks, learning, teaching
 
-I love to talk about code! I enjoy learning and/or mentoring engineers I work closely with. I've [done one talk at JS.LA](https://www.youtube.com/watch?v=8YQ8BGSOsyE). Keeping things simple on all levels is important to me.
-
+I love to talk about code. Whether I'm learning, teaching, or getting stooped by a problem simple or hard, I love it all! I've [done one talk at JS.LA](https://www.youtube.com/watch?v=8YQ8BGSOsyE). Keeping things simple on all levels is important to me. 
