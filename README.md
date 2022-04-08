@@ -6,7 +6,7 @@ My name's Jeffry Wainwright. I go by Jeff. I'm passionate about coding, art, [su
 
 ## Open Source
 
-I enjoy writing and using open source! I wrote much of my open source work including [shave](https://github.com/dollarshaveclub/shave), [stickybits](https://github.com/dollarshaveclub/stickybits), [scrolldir](https://github.com/dollarshaveclub/scrolldir/), [reframe.js](https://github.com/dollarshaveclub/reframe.js), and [es-check](https://github.com/dollarshaveclub/es-check)  while working at [Dollar Shave Club (DSC)](https://github.com/dollarshaveclub). 
+I enjoy writing and using open source! I wrote much of my open source work including [shave](https://github.com/yowainwright/shave), [stickybits](https://github.com/yowainwright/stickybits), [scrolldir](https://github.com/yowainwright/scrolldir/), [reframe.js](https://github.com/yowainwright/reframe.js), and [es-check](https://github.com/yowainwright/es-check)  while working at [Dollar Shave Club (DSC)](https://github.com/dollarshaveclub). 
 
 I'm currently focused on building secure simple utilities to assist in everyday development. 
 
