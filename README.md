@@ -1,10 +1,12 @@
-# Hey! 🥤
+# Hey! 👋
 
-I go by Jeff. I'm a husband, dad, & software engineer. I [surf](https://www.instagram.com/p/BrlE4oSnF05/), [run](https://www.strava.com/athletes/722335), & enjoy fitness. I enjoy discussing any of the topics above. You can learn more about me on [Jeffry.in](https://jeffry.in).
+I go by Jeff. I'm a husband, dad, & software engineer. I [surf](https://www.instagram.com/p/BrlE4oSnF05/), [run](https://www.strava.com/athletes/722335), & enjoy fitness.<br />
+I enjoy discussing any of the topics above. You can learn more about me on [Jeffry.in](https://jeffry.in).
 
 ---
 
-Building, learning, & sharing openly is a huge part of how I work. Here are some of my community contributions.
+Building, learning, & sharing openly is a huge part of how I work.<br />
+Here are some of my community contributions.
 
 | name | description | downloads | website |
 | :---: | --- | --- | :---: |
