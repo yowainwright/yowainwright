@@ -1,6 +1,6 @@
-# Hey! 👋
+#### Hey! 👋
 
-I'm a husband, dad, & software engineer. I [surf](https://www.instagram.com/p/BrlE4oSnF05/), [run](https://www.strava.com/athletes/722335), & enjoy fitness! I sometime write quick article on my blog, [Jeffry.in](https://jeffry.in). I've also been lucky enough to write for [CSS-Tricks](https://css-tricks.com/?s=yowainwright)
+I'm a husband, dad, & software engineer. I [surf](https://www.instagram.com/p/BrlE4oSnF05/), [run](https://www.strava.com/athletes/722335), & enjoy fitness! I write quick articles on my blog, [Jeffry.in](https://jeffry.in) & have been lucky enough to write for [CSS-Tricks](https://css-tricks.com/?s=yowainwright)
 
 ---
 
