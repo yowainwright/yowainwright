@@ -2,7 +2,7 @@
 
 #### Hey! 👋
 
-I'm a husband, dad, & software engineer. I [surf](https://www.instagram.com/p/BrlE4oSnF05/), [run](https://www.strava.com/athletes/722335), & enjoy fitness.
+I'm a husband, dad, & [software engineer](https://jeffry.in). I [surf](https://www.instagram.com/p/BrlE4oSnF05/), [run](https://www.strava.com/athletes/722335), & enjoy fitness.
 
 I write quick articles on my blog, [Jeffry.in](https://jeffry.in), & have published articles on [CSS-Tricks](https://css-tricks.com/?s=yowainwright). I've presentated at [JS.LA](https://www.youtube.com/watch?v=8YQ8BGSOsyE) where I talked about CI/CD tools I helped build with a friend & mentor of mine, [Jon Ong](https://github.com/jonathanong). 
 
