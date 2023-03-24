@@ -7,7 +7,7 @@ I'm a husband, dad, & [software engineer](https://jeffry.in). I [surf](https://w
 I write articles on my blog, [Jeffry.in](https://jeffry.in), & have written articles for [CSS-Tricks](https://css-tricks.com/?s=yowainwright) as well.<br> 
 I've presented at [JS.LA](https://www.youtube.com/watch?v=8YQ8BGSOsyE) on the benefits of CI/CD tools.
 
-I currently build dev, privacy, & security tools for [GoodRx](https://www.goodrx.com/) in Typescript, Go, & Python.<br>
+I currently architect devEx, privacy, & security tools for [GoodRx](https://www.goodrx.com/) in Typescript, Go, & Python.<br>
 I'm excited about Rust! 
 
 ---
