@@ -10,8 +10,7 @@ I write articles on my blog, [Jeffry.in](https://jeffry.in), & have written arti
 I've presented at [JS.LA](https://www.youtube.com/watch?v=8YQ8BGSOsyE) on the benefits of CI/CD tools.
 
 I currently architect developer experience tools for [GoodRx](https://www.goodrx.com/).<br>
-I do this using Typescript, Go, & Python.<br>
-I'm excited about Rust! 
+I do this using Typescript, Go, & Python. 
 
 ---
 
