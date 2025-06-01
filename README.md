@@ -1,13 +1,14 @@
 ---
 
-#### Hey! 👋
+#### Hey!
 
-I'm a husband, dad, & [software engineer](https://jeffry.in).<br>
-When I'm not writing code, I enjoy fitness activities.<br>
-[Surfing](https://www.instagram.com/p/BrlE4oSnF05/) and [running](https://www.strava.com/athletes/722335) are my current favorites.
+I enjoy building with code and architecture - probably a little too much. I guess it's okay, considering I do it for work!<br>
+When I'm not writing software, I enjoy creating, generally, and [fitness](https://www.strava.com/athletes/722335).<br>
 
 I write articles on my blog, [Jeffry.in](https://jeffry.in), & have written articles for [CSS-Tricks](https://css-tricks.com/?s=yowainwright).<br> 
-I've presented at [JS.LA](https://www.youtube.com/watch?v=8YQ8BGSOsyE) on the benefits of CI/CD tools. 
+I've presented at [JS.LA](https://www.youtube.com/watch?v=8YQ8BGSOsyE) on the benefits of CI/CD tools. I've worked and work on a few OSS teams; helping where I can. 
+
+Most my open source is in JavaScript but I greatly enjoy Go and Python—really any modality. 
 
 ---
 
