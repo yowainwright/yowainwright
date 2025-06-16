@@ -8,7 +8,7 @@ When I'm not writing software, I create art, am learning to build things with to
 I write articles on [Jeffry.in](https://jeffry.in), & have written articles for [CSS-Tricks](https://css-tricks.com/?s=yowainwright).<br> 
 I've presented at [JS.LA](https://www.youtube.com/watch?v=8YQ8BGSOsyE) on the benefits of CI/CD tools and  I've worked on a few OSS teams; helping where I can. 
 
-Most my open source is in JavaScript but I greatly enjoy Go and Python—really any modality. 
+Most of my open source is in JavaScript but I greatly enjoy Go and Python—really any modality. 
 
 ---
 
