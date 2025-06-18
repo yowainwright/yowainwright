@@ -21,7 +21,7 @@ Most of my open source is in JavaScript but I greatly enjoy Go and Python—real
 | [stickybits](https://github.com/yowainwright/stickybits) | Stickybits is a lightweight alternative to `position: sticky` polyfills 🍬 | [![stickybits](https://img.shields.io/npm/dm/stickybits.svg)](https://www.npmjs.com/package/stickybits) | [🔗](https://jeffry.in/stickybits/) | 
 | [scrolldir](https://github.com/yowainwright/scrolldir/) | 0 dependency JS plugin to leverage scroll direction with CSS ⬆⬇ | [![scrolldir](https://img.shields.io/npm/dm/scrolldir.svg)](https://www.npmjs.com/package/scrolldir) | [🔗](https://jeffry.in/scrolldir/) | 
 | [reframe.js](https://github.com/yowainwright/reframe.js) | 🖼 Reframe unresponsive elements responsively | [![scrolldir](https://img.shields.io/npm/dm/scrolldir.svg)](https://www.npmjs.com/package/scrolldir) | [🔗](https://jeffry.in/reframe.js/) | 
-| [codependence](https://github.com/yowainwright/codependence) | Stop wrestling with code dependencies. Use Codependence! 🤼‍♀️ | [![codependence](https://img.shields.io/npm/dm/codependence.svg)](https://www.npmjs.com/package/codependence) | - | 
+| [codependence](https://github.com/yowainwright/codependence) | Stop wrestling with code dependencies. Use Codependence! 🤼‍♀️ | [![codependence](https://img.shields.io/npm/dm/codependence.svg)](https://www.npmjs.com/package/codependence) | [🔗](https://jeffry.in/codependence) | 
 | [pastoralist](https://github.com/yowainwright/pastoralist) | Pastoralist is a CLI tool for managing package.json overrides (or resolutions) with ease 👩🏽‍🌾 | [![pastoralist](https://img.shields.io/npm/dm/pastoralist.svg)](https://www.npmjs.com/package/pastoralist) | [🔗](https://jeffry.in/pastoralist) | 
 
 
