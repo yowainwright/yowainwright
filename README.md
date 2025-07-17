@@ -3,7 +3,7 @@
 #### Hey!
 
 I enjoy creating. Here, I do it with software.<br>
-When I'm not writing software, I create art, am learning to build things with tools and enjoy [fitness](https://www.strava.com/athletes/722335).<br>
+When I'm not writing software, I create art, try to build things with tools and enjoy [fitness](https://www.strava.com/athletes/722335).<br>
 
 I write articles on [Jeffry.in](https://jeffry.in), & have written articles for [CSS-Tricks](https://css-tricks.com/?s=yowainwright).<br> 
 I've presented at [JS.LA](https://www.youtube.com/watch?v=8YQ8BGSOsyE) on the benefits of CI/CD tools and  I've worked on a few OSS teams; helping where I can. 
@@ -24,4 +24,4 @@ Most of my open source is in JavaScript but I greatly enjoy Go and Python—real
 | [codependence](https://github.com/yowainwright/codependence) | Stop wrestling with code dependencies. Use Codependence! 🤼‍♀️ | [![codependence](https://img.shields.io/npm/dm/codependence.svg)](https://www.npmjs.com/package/codependence) | [🔗](https://jeffry.in/codependence) | 
 | [pastoralist](https://github.com/yowainwright/pastoralist) | Pastoralist is a CLI tool for managing package.json overrides (or resolutions) with ease 👩🏽‍🌾 | [![pastoralist](https://img.shields.io/npm/dm/pastoralist.svg)](https://www.npmjs.com/package/pastoralist) | [🔗](https://jeffry.in/pastoralist) | 
 
-
+Have a great day! 🌻
