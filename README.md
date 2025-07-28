@@ -1,9 +1,6 @@
 Hello!
 
 I write software and love making things.<br>
-I've written articles for [CSS-Tricks](https://css-tricks.com/?s=yowainwright) and have presented at [JS.LA](https://www.youtube.com/watch?v=8YQ8BGSOsyE).<br>
-I work on a few larger OSS teams; helping where I can. I've written highly used products; most of which I started while at @dollarshaveclub.<br>
-Almost all of my open source contribution is JavaScript but I greatly enjoy Go, Python, and am excitedly learning more above infrastructure—really any modality. 
 
 Here are some of my code community contributions.
 
