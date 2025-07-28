@@ -1,5 +1,3 @@
----
-
 Hello!
 
 I write software and love making things.<br>
@@ -19,4 +17,4 @@ Here are some of my code community contributions.
 | [codependence](https://github.com/yowainwright/codependence) | Stop wrestling with code dependencies. Use Codependence! 🤼‍♀️ | [![codependence](https://img.shields.io/npm/dm/codependence.svg)](https://www.npmjs.com/package/codependence) | [🔗](https://jeffry.in/codependence) | 
 | [pastoralist](https://github.com/yowainwright/pastoralist) | Pastoralist is a CLI tool for managing package.json overrides (or resolutions) with ease 👩🏽‍🌾 | [![pastoralist](https://img.shields.io/npm/dm/pastoralist.svg)](https://www.npmjs.com/package/pastoralist) | [🔗](https://jeffry.in/pastoralist) | 
 
-Have a great day! 🌻
+Have a great day!
