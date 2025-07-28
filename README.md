@@ -1,7 +1,6 @@
 Hello!
 
 I write software and love making things.<br>
-
 Here are some of my code community contributions.
 
 | name | description | downloads | website |
