@@ -1,7 +1,7 @@
 Hello!
 
-I write software and love making things.<br>
-Here are some of my code community contributions.
+I love making things.<br>
+Here are some things I contributed to the community.
 
 | name | description | downloads | website |
 | :---: | --- | --- | :---: |
