@@ -1,7 +1,7 @@
 Hello!
 
 I love making things.<br>
-Here are some things I contributed to the community.
+Here are some things I've contributed to the community.
 
 | name | description | downloads | website |
 | :---: | --- | --- | :---: |
